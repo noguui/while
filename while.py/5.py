@@ -1,0 +1,1 @@
+n = int(input("Qual tabuada você quer? "))
